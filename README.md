@@ -1,2 +1,2 @@
-# document-processing-pipeline
-Personal project: document processing pipeline
+# Document Processing Pipeline
+Tech stack: C#, ASP.NET Core, Blazor, Azure App Services, Azure Storage, SQL Server, EF Core
